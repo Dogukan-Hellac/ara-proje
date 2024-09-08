@@ -69,6 +69,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 
 ![loginscreen](https://github.com/user-attachments/assets/fb654cc1-5cdb-4999-9e43-7c62f8e337b5)
 ![signupscreen](https://github.com/user-attachments/assets/3f7babe7-8c65-4147-8ed9-b8d0e6ca8e22)
+---
 
 #### Kullanıcı giriş veya hesap oluşturmada hatalı girişte verilen uyarı mesajları
 
